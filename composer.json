@@ -1,5 +1,5 @@
 {
-    "name": "nuwave/lighthouse",
+    "name": "elliottlawson/lighthouse",
     "description": "A framework for serving GraphQL from Laravel",
     "license": "MIT",
     "type": "library",
